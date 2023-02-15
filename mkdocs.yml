@@ -1,0 +1,12 @@
+site_name: Galactic Empire project
+
+# répertoire où trouver les fichiers .md
+docs_dir: content
+
+# configuration du thème
+theme:
+  name: material
+  logo: assets/death-star.png
+
+extra_css:
+  - stylesheets/galactic-empire.css
